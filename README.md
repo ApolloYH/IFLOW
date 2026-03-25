@@ -64,19 +64,19 @@
 
 系统提供网页端入口，用户可在首页完成了解、注册和登录等操作。
 
-![心流映像首页](assets/readme/homepage.png)
+![心流映像首页](./homepage.png)
 
 ### 2. RAG 原理示意
 
 项目通过知识文档、向量检索和大语言模型联动，为心理分析与问答提供知识支撑。
 
-![RAG 原理图](assets/readme/rag-architecture.png)
+![RAG 原理图](./rag-architecture.png)
 
 ### 3. 心理评估报告
 
 系统能够结合对话分析结果，生成结构化的心理评估报告，辅助用户理解自身情绪状态。
 
-![心理评估报告展示](assets/readme/report-preview.png)
+![心理评估报告展示](./report-preview.png)
 
 ## 数据分析展示
 
